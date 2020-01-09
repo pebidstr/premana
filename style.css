@@ -1,0 +1,18 @@
+/* NAVBAR */
+.navbar
+{
+    height: 80px;
+}
+
+/* CONTAINER */
+.content
+{
+    margin-top: 80px;
+}
+
+/* FOOTER */
+.footer
+{
+    left: 0;
+    right: 0;
+}
